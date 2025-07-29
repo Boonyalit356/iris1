@@ -2,7 +2,7 @@ package iris1
 
 import "fmt"
 
-func Iris_say() {
+func IrisSay() {
 	fmt.Println("Iris say hello")
 }
 
