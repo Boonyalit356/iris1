@@ -2,10 +2,10 @@ package iris1
 
 import "fmt"
 
-func iris_say() {
+func Iris_say() {
 	fmt.Println("Iris say hello")
 }
 
-func iris_say2() {
+func Iris_say2() {
 	fmt.Println("Iris say hello hello")
 }
